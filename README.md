@@ -2,7 +2,7 @@
 
 An interactive two-page Tableau Public dashboard I built to analyse a catalogue of **8,577 Spotify tracks** across **2,545 artists**, looking at artist reach, release growth, and how the catalogue breaks down by genre and album type.
 
-**▶️ [View the live interactive dashboard](PASTE_YOUR_TABLEAU_PUBLIC_URL_HERE)**
+**[View the live interactive dashboard](https://public.tableau.com/views/SpotifyMusicCatalogueAnalysis/CatalogueOverview)**
 
 ![Overview page](images/Catalogue%20Overview.png)
 
